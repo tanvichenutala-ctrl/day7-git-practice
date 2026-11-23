@@ -1,2 +1,2 @@
-# day7-git-practice
-CI test
+
+About: practice repo for Day 7.
